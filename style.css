@@ -46,7 +46,7 @@ body {
 }
 
 .qr-code {
-    background: url('images/image-qr-code.png');
+    background: url('image-qr-code.png');
     border-radius: 7px;
     background-color: white;
     height: 14rem;
